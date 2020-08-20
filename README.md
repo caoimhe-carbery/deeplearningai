@@ -1,2 +1,3 @@
 # deeplearningai
-Notebooks from deeplearning.ai course
+Notebooks from deeplearning.ai course and some experimentations.
+
